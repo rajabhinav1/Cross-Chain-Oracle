@@ -25,3 +25,9 @@ The oracle employs robust security measures to protect against data manipulation
 A governance mechanism allows token holders or stakeholders to participate in decision-making regarding upgrades, parameter changes, and maintenance. User-Friendly Interface:
 
 Users can interact with the oracle through a user-friendly web interface or API. Querying and data retrieval are straightforward for both developers and non-developers.
+
+![image](https://github.com/rajabhinav1/Cross-Chain-Oracle/assets/27865950/00be7a0a-2a79-4d64-948f-79e5e41ec773)
+
+
+
+
