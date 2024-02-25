@@ -1,5 +1,5 @@
 # Cross-Chain-Oracle
-The product is still in testing and integration phase, you can go through the preview
+project is about working with real live data from the Blockchain API in a secure way.The product is still in the testing and integration phase, you can go through the preview
 
 ****
 Key Features: ( Some features still to be updated)
