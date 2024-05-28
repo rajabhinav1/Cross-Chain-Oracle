@@ -1,4 +1,8 @@
 # Cross-Chain-Oracle
+
+****
+https://github.com/rajabhinav1/Green-Echo-
+https://github.com/rajabhinav1/Oracle-Flow
 The project is about working with real live data from the Blockchain API securely. The product is still in the testing and integration phase, you can go through the preview.
 
 
