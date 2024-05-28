@@ -33,6 +33,16 @@ Users can interact with the oracle through a user-friendly web interface or API.
 
 ![image](https://github.com/rajabhinav1/Cross-Chain-Oracle/assets/27865950/00be7a0a-2a79-4d64-948f-79e5e41ec773)
 
+Completed the submission rounds and received a statement of interest for further investments, declined due to occupancy on furthering core interest.
+2024.02.01 Hack Secret 2024
+2024.02.25 AI Co Creation with FLock
+2024.02.19 Filecoin | InterPlanetary Consensus (IPC): Data Economy Hackathon
+2024.02.16 Shido Forge Hackathon
+2022.09.28 Dora Grant DAO Round 7 - Submission start!
+2024.02.01 Planq Long-Term Grant Program - Round Two
+
+https://dorahacks.io/buidl/10425
+
 
 
 
